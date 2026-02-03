@@ -215,6 +215,8 @@ Building responsive UIs • Creating conversational AI • Implementing secure a
 **Tech Stack:**  
 `React` • `TypeScript` • `Python` • `Google Gemini` • `Supabase`
 
+**🔗 [Live Demo](https://cherag.pages.dev/auth)**
+
 <br/>
 
 </td>
@@ -308,7 +310,7 @@ git push origin feature/AmazingFeature
 <a href="https://linkedin.com/in/qamber-muhammed-hanif/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<img src="https://img.shields.io/badge/Location-Gwader,_Pakistan-58A6FF?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+<img src="https://img.shields.io/badge/Location-Peshawar,_Pakistan-58A6FF?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
 <img src="https://img.shields.io/badge/Open_to-Collaboration-32CD32?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Collaboration"/>
 </p>
 
