@@ -163,14 +163,7 @@ Building responsive UIs • Creating conversational AI • Implementing secure a
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Statistics
 
-<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Qamber02&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qamber02&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact&langs_count=8" />
-
-</div>
-
-<br/>
 
 ### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Top Contributed Repositories
 
