@@ -30,7 +30,7 @@
 
 <h3>💫 Who I Am</h3>
 
-I'm a passionate **full-stack developer** building AI-powered applications that make a real-world impact. Currently based in **Peshawar, Pakistan**, I specialize in creating intelligent, user-centric solutions that bridge technology and education.
+I'm a passionate **full-stack developer** building AI-powered applications that make a real-world impact. Currently based in **Gwader, Pakistan**, I specialize in creating intelligent, user-centric solutions that bridge technology and education.
 
 <br/>
 
