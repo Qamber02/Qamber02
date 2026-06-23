@@ -1,0 +1,47 @@
+<svg width="600" height="90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D0621;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#0A1628;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#1A0638;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="cg1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FFB800"/>
+      <stop offset="100%" style="stop-color:#FF4D6D"/>
+    </linearGradient>
+    <linearGradient id="cg2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7C3AED"/>
+      <stop offset="100%" style="stop-color:#00D4FF"/>
+    </linearGradient>
+    <linearGradient id="cg3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D4FF"/>
+      <stop offset="100%" style="stop-color:#FFB800"/>
+    </linearGradient>
+    <filter id="glow2">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .cl1 { animation: sl 0.4s 0.2s ease both; opacity:0; }
+      .cl2 { animation: sl 0.4s 1.0s ease both; opacity:0; }
+      .cl3 { animation: sl 0.4s 1.8s ease both; opacity:0; }
+      .curs2 { animation: bl 1s step-end infinite; }
+      @keyframes sl { from { opacity:0; transform: translateX(-6px); } to { opacity:1; transform: translateX(0); } }
+      @keyframes bl { 0%,100% { opacity:1; } 50% { opacity:0; } }
+    </style>
+  </defs>
+
+  <rect width="600" height="90" rx="10" fill="url(#bg2)"/>
+  <rect width="598" height="88" x="1" y="1" rx="9" fill="none" stroke="#FFB800" stroke-width="0.8" opacity="0.4"/>
+
+  <text x="18" y="32" font-family="'Courier New', monospace" font-size="12" fill="#FFB800" opacity="0.5">→</text>
+  <text x="32" y="32" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="url(#cg1)" filter="url(#glow2)" class="cl1">Open to Internships  ·  Collaborations  ·  Contracting</text>
+
+  <text x="18" y="56" font-family="'Courier New', monospace" font-size="12" fill="#FFB800" opacity="0.5">→</text>
+  <text x="32" y="56" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="url(#cg2)" filter="url(#glow2)" class="cl2">Focus: South Asia  ·  Underserved markets  ·  EdTech</text>
+
+  <text x="18" y="78" font-family="'Courier New', monospace" font-size="12" fill="#FFB800" opacity="0.5">→</text>
+  <text x="32" y="78" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="url(#cg3)" filter="url(#glow2)" class="cl3">Timezone: PKT (UTC+5)  ·  Always building</text>
+
+  <rect x="553" y="66" width="7" height="12" rx="1" fill="#FFB800" class="curs2"/>
+</svg>

@@ -1,0 +1,62 @@
+<svg width="700" height="110" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D0621;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#0A1628;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#1A0638;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="line1grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D4FF"/>
+      <stop offset="100%" style="stop-color:#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="line2grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7C3AED"/>
+      <stop offset="100%" style="stop-color:#FF4D6D"/>
+    </linearGradient>
+    <linearGradient id="line3grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FFB800"/>
+      <stop offset="100%" style="stop-color:#00D4FF"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- Cursor blink animation -->
+    <style>
+      .cursor { animation: blink 1s step-end infinite; }
+      @keyframes blink { 0%,100% { opacity:1; } 50% { opacity:0; } }
+
+      .line1 { animation: reveal1 0.5s ease forwards; }
+      .line2 { animation: reveal2 0.5s 1.2s ease both; opacity:0; }
+      .line3 { animation: reveal2 0.5s 2.4s ease both; opacity:0; }
+      @keyframes reveal1 { from { opacity:0; transform: translateX(-8px); } to { opacity:1; transform: translateX(0); } }
+      @keyframes reveal2 { from { opacity:0; transform: translateX(-8px); } to { opacity:1; transform: translateX(0); } }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="700" height="110" rx="10" fill="url(#bg)"/>
+  <rect width="698" height="108" x="1" y="1" rx="9" fill="none" stroke="#7C3AED" stroke-width="0.8" opacity="0.5"/>
+
+  <!-- Prompt symbol -->
+  <text x="20" y="40" font-family="'Courier New', monospace" font-size="13" fill="#00D4FF" opacity="0.6">❯</text>
+
+  <!-- Line 1 -->
+  <text x="38" y="40" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="url(#line1grad)" filter="url(#glow)" class="line1">Full Stack Engineer  ·  BSCS @ University of Turbat  ·  GPA 3.40</text>
+
+  <!-- Prompt symbol -->
+  <text x="20" y="68" font-family="'Courier New', monospace" font-size="13" fill="#00D4FF" opacity="0.6">❯</text>
+
+  <!-- Line 2 -->
+  <text x="38" y="68" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="url(#line2grad)" filter="url(#glow)" class="line2">Building production systems for underserved markets</text>
+
+  <!-- Prompt symbol -->
+  <text x="20" y="96" font-family="'Courier New', monospace" font-size="13" fill="#00D4FF" opacity="0.6">❯</text>
+
+  <!-- Line 3 -->
+  <text x="38" y="96" font-family="'Courier New', monospace" font-size="13" font-weight="bold" fill="url(#line3grad)" filter="url(#glow)" class="line3">4-agent Claude Code  ·  parallel branches  ·  merge at velocity</text>
+
+  <!-- Blinking cursor -->
+  <rect x="644" y="83" width="8" height="14" rx="1" fill="#00D4FF" class="cursor"/>
+</svg>
