@@ -78,7 +78,7 @@
 <!--                        WHOAMI BLOCK                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Full+Stack+Engineer+%7C+BSCS+%40+University+of+Turbat;Building+production+systems+for+underserved+markets;4-agent+Claude+Code+%C2%B7+parallel+branches+%C2%B7+merge+at+velocity" alt="Typing SVG" />
+<img src="./typing_header.svg" width="700" alt="Qamber — Full Stack Engineer · Gwadar · Building where it matters"/>
 
 <br/><br/>
 
@@ -459,7 +459,7 @@ stack:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=FFB800&center=true&vCenter=true&width=600&lines=→+Open+to+Internships+%C2%B7+Collaborations+%C2%B7+Contracting;→+Focus%3A+South+Asia+%C2%B7+Underserved+markets+%C2%B7+EdTech;→+Timezone%3A+PKT+(UTC%2B5)+%C2%B7+Always+building" alt="Typing SVG" />
+<img src="./typing_connect.svg" width="600" alt="Open to Internships · Collaborations · Contracting"/>
 
 <br/><br/>
 
