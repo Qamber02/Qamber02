@@ -237,7 +237,7 @@ stack:
                          │
   ┌──────────────────────▼───────────────────────────┐
   │  FastAPI · AI Orchestration                       │
-  │  Primary  ──▶  Gemini 2.0 Flash                  │
+  │  Primary  ──▶  Gemini 2.5 Flash                  │
   │  Fallback ──▶  DeepSeek + OpenRouter              │
   │  (smart failover · never goes dark)               │
   └──────┬──────────────────────────┬────────────────┘
