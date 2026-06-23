@@ -1,99 +1,145 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0E1A,25:061424,50:0D1F35,75:061424,100:0A0E1A&height=300&section=header&text=QAMBER.EXE&fontSize=80&fontColor=00D4FF&animation=blink&fontAlignY=45&desc=→%20Full%20Stack%20Engineer%20·%20Gwadar%2C%20Balochistan%20·%20Building%20where%20it%20matters&descSize=15&descAlignY=67&descColor=FFB800&stroke=00D4FF&strokeWidth=2"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED HEADER                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050810,20:0D1040,40:1A0050,60:0D1040,80:061424,100:050810&height=280&section=header&text=QAMBER.EXE&fontSize=90&fontColor=00D4FF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Engineer%20·%20Gwadar%2C%20Balochistan%20·%20Building%20where%20it%20matters&descSize=16&descAlignY=65&descColor=FFB800&stroke=7C3AED&strokeWidth=3"/>
+
 </div>
 
-<br/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    SIGNAL ORIGIN BADGE ROW                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-[![3D Space - Interactive Profile](https://img.shields.io/badge/ENTER_3D_GRID-00D4FF?style=for-the-badge&logo=three.js&logoColor=0A0E1A&labelColor=FFB800)](https://qambers-cyber-grid.vercel.app)
+[![Portfolio](https://img.shields.io/badge/⚡_CYBER_GRID-00D4FF?style=for-the-badge&logoColor=0A0E1A&labelColor=050810)](https://qambers-cyber-grid.vercel.app)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=0A0E1A)](https://linkedin.com/in/qamber-muhammed-hanif/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050810)](https://linkedin.com/in/qamber-muhammed-hanif/)
 &nbsp;
-[![Cherág Live](https://img.shields.io/badge/Cherág_Live-FF4D6D?style=for-the-badge&logo=cloudflare&logoColor=white)](https://cherag.pages.dev)
+[![Cherág Live](https://img.shields.io/badge/🔆_CHERÁG_LIVE-FF4D6D?style=for-the-badge&logoColor=white&labelColor=050810)](https://cherag.pages.dev)
 &nbsp;
-![Views](https://komarev.com/ghpvc/?username=Qamber02&style=for-the-badge&color=0D2137&label=VIEWS&labelColor=00D4FF)
+![Views](https://komarev.com/ghpvc/?username=Qamber02&style=for-the-badge&color=050810&label=PROFILE+HITS&labelColor=FFB800)
 
 </div>
 
 <br/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              ★ WOW FEATURE: SIGNAL ORIGIN RADAR ★             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## `> $ whoami`
+<div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│  $ whoami                                                                    │
-│                                                                              │
-│  ▶  Qamber Muhammed Hanif                                                    │
-│  ▶  BSCS @ University of Turbat  ·  GPA 3.40  ·  Class of 2027              │
-│  ▶  Building Karwan — food delivery for markets Foodpanda skipped            │
-│                                                                              │
-│  $ location --verbose                                                        │
-│                                                                              │
-│  ▶  25.1264° N, 62.3225° E  ·  Gwadar, Balochistan, Pakistan                │
-│  ▶  ~650km from where the apps stop                                          │
-│                                                                              │
-│  $ cat mission.txt                                                           │
-│                                                                              │
-│  ▶  Ship production systems, not demos.                                      │
-│  ▶  4-agent Claude Code · parallel branches · merge at velocity              │
-│                                                                              │
-│  $ exit 0                                                                    │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║    ████████╗██████╗  █████╗ ███╗   ██╗███████╗███╗   ███╗██╗████████╗      ║
+║       ██╔══╝██╔══██╗██╔══██╗████╗  ██║██╔════╝████╗ ████║██║╚══██╔══╝      ║
+║       ██║   ██████╔╝███████║██╔██╗ ██║███████╗██╔████╔██║██║   ██║         ║
+║       ██║   ██╔══██╗██╔══██║██║╚██╗██║╚════██║██║╚██╔╝██║██║   ██║         ║
+║       ██║   ██║  ██║██║  ██║██║ ╚████║███████║██║ ╚═╝ ██║██║   ██║         ║
+║       ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝     ╚═╝╚═╝   ╚═╝         ║
+║                                                                              ║
+║               S I G N A L   O R I G I N   D E T E C T E D                  ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║   COORDINATES  ·  25.1264° N, 62.3225° E                                    ║
+║                                                                              ║
+║   ···················( SIGNAL PULSE )···················                    ║
+║   ·              ○ ○ ○ ○ ◉ ○ ○ ○ ○                    ·                    ║
+║   ·           ○               ·               ○        ·                    ║
+║   ·        ○        ○ ○ ○ ◉ ○ ○ ○        ○             ·                    ║
+║   ·      ○       ○                   ○       ○         ·                    ║
+║   ·     ○      ○        ○ ◉ ○        ○      ○          ·                    ║
+║   ·     ○     ○       ○       ○       ○     ○          ·                    ║
+║   ·     ○     ○      ○   ███  ○      ○     ○           ·                    ║
+║   ·     ○     ○      ○  █YOU█ ○      ○     ○           ·  GWADAR            ║
+║   ·     ○     ○      ○   ███  ○      ○     ○           ·  BALOCHISTAN       ║
+║   ·     ○      ○       ○       ○       ○      ○        ·  PAKISTAN          ║
+║   ·      ○       ○        ○ ◉ ○        ○       ○       ·                    ║
+║   ·        ○        ○ ○ ○ ◉ ○ ○ ○        ○             ·                    ║
+║   ·           ○               ·               ○        ·                    ║
+║   ·              ○ ○ ○ ○ ◉ ○ ○ ○ ○                    ·                    ║
+║   ···················( LOCKED ON )·····················                     ║
+║                                                                              ║
+║   [ RANGE: ~650km from where the apps stop ]  [ STATUS: SHIPPING ]          ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
----
+</div>
 
-## `> SYSTEM PROFILE`
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        WHOAMI BLOCK                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Full+Stack+Engineer+%7C+BSCS+%40+University+of+Turbat;Building+production+systems+for+underserved+markets;4-agent+Claude+Code+%C2%B7+parallel+branches+%C2%B7+merge+at+velocity" alt="Typing SVG" />
+
+<br/><br/>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-I ship **production systems**, not demos.
+```yaml
+# qamber.config.yml
+identity:
+  name: "Qamber Muhammed Hanif"
+  role: "Full Stack Engineer"
+  degree: "BSCS · GPA 3.40 · Class of 2027"
+  university: "University of Turbat"
+  location: "Gwadar, Balochistan · 25°N 62°E"
 
-My market is Gwadar and Turbat — two cities in Balochistan with 500k+ people, zero app-based food delivery, one dictionary for local languages, and students without access to quality tutoring. That's the gap I'm building into.
+mission:
+  statement: "Ship production systems, not demos"
+  market: "500k+ people, zero app coverage"
+  gap: "~650km from where the apps stop"
 
-Current weapons: **Flutter · FastAPI · React · Supabase · Node.js**
+workflow:
+  agents: 4
+  tool: "Claude Code"
+  strategy: "parallel branches → merge at velocity"
+  ships: true
 
-Current workflow: **4 parallel Claude Code agents** across isolated git branches — one per feature, merging at velocity.
-
-Current battleground: **Stripe Connect** onboarding, multi-tenant payout flows, and keeping a Render free-tier server warm via UptimeRobot.
-
-```python
-class Qamber:
-    stack    = ["Flutter", "FastAPI", "React",
-                "Supabase", "Node.js", "TypeScript",
-                "PostgreSQL"]
-    infra    = ["Docker", "Azure", "Cloudflare", "Linux"]
-    mission  = "build where the gap is"
-    workflow = "4-agent Claude Code, parallel branches"
-    gpa      = 3.40
-    ships    = True   # not demos
+stack:
+  - Flutter · FastAPI · React
+  - Supabase · Node.js · TypeScript
+  - Docker · Azure · Cloudflare
 ```
 
 </td>
-<td width="45%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
+
+<br/>
 
 ```
 ╔══════════════════════════════════╗
-║  LIVE PROJECTS                   ║
+║  ⚡  LIVE MISSION STATUS         ║
 ╠══════════════════════════════════╣
-║  🟢  Karwan     →  IN DEV        ║
-║  🟢  Cherág     →  LIVE          ║
-║  🔵  Pajjar     →  SHIPPED       ║
-╠══════════════════════════════════╣
-║  CURRENT STACK                   ║
-╠══════════════════════════════════╣
-║  Flutter  ████████████░  90%     ║
-║  FastAPI  ███████████░░  88%     ║
-║  React    ██████████░░░  82%     ║
-║  Node.js  █████████░░░░  75%     ║
-║  DevOps   ████████░░░░░  65%     ║
+║                                  ║
+║  🟢  Karwan     ──  IN DEV       ║
+║       Food delivery, Gwadar      ║
+║       Flutter · FastAPI · Supa   ║
+║                                  ║
+║  🔆  Cherág     ──  LIVE         ║
+║       AI Study Platform          ║
+║       React19 · Gemini · ACA     ║
+║                                  ║
+║  📖  Pajjar     ──  SHIPPED      ║
+║       Offline Language Dict      ║
+║       Flutter · SQLite           ║
+║                                  ║
+║  💼  Unhire     ──  INTERNING    ║
+║       Stripe Connect · Node.js   ║
+║       NYC Freelance Marketplace  ║
+║                                  ║
 ╚══════════════════════════════════╝
 ```
 
@@ -101,46 +147,59 @@ class Qamber:
 </tr>
 </table>
 
----
-
-## `> PROJECTS --depth=full`
-
-<!-- ─────────────────────────── KARWAN ─────────────────────────── -->
-<details open>
-<summary><b>📦 &nbsp; KARWAN — Hyperlocal Food Delivery &nbsp;·&nbsp; Gwadar &amp; Turbat</b></summary>
+</div>
 
 <br/>
 
-> **The problem:** Foodpanda covers Pakistan up to Quetta. Gwadar is 650km south. Zero app-based food delivery exists in either city. Karwan fills the gap.
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--               COLORFUL GRADIENT DIVIDER                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:00D4FF,100:FFB800&height=4&section=header"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    PROJECTS SECTION                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `⚡ PROJECTS — BUILT FROM THE GAP`
+
+> *Every project below exists because the market failed to show up first.*
+
+<br/>
+
+<!-- ─── KARWAN ─── -->
+
+<table>
+<tr>
+<td>
+
+### `📦 KARWAN` &nbsp; · &nbsp; Hyperlocal Food Delivery
+
+<img src="https://img.shields.io/badge/STATUS-IN_DEV-FFB800?style=flat-square&labelColor=050810"/> &nbsp;
+<img src="https://img.shields.io/badge/MARKET-GWADAR_%26_TURBAT-00D4FF?style=flat-square&labelColor=050810"/> &nbsp;
+<img src="https://img.shields.io/badge/FIRST_MOVER-650km_GAP-FF4D6D?style=flat-square&labelColor=050810"/>
+
+**The gap:** Foodpanda covers Pakistan down to Quetta. Gwadar is 650km south. Karwan is the first food delivery platform for two cities with a combined population over 500k.
 
 ```
-SYSTEM TOPOLOGY
-══════════════════════════════════════════════════════════════════════
-                                                                      
-  ┌─────────────────────┐    ┌──────────────────────┐                
-  │  Flutter             │    │  React               │                
-  │  Customer App        │    │  Restaurant Panel    │                
-  │  order · track · pay │    │  menu · orders · rev │                
-  └──────────┬──────────┘    └──────────┬───────────┘                
-             │                          │                             
-             ▼                          ▼                             
-  ┌──────────────────────────────────────────────────┐               
-  │          FastAPI  ·  Core API Gateway            │               
-  │          Supabase ·  Realtime DB + Auth          │               
-  └────┬─────────────┬──────────────┬───────────────┘               
-       │             │              │                                 
-       ▼             ▼              ▼                                 
-  [Firebase     [JazzCash /    [Twilio         [Azure                 
-   FCM Push]     EasyPaisa]    WhatsApp]        Container Apps]       
-  push notif    local pay      confirmations    backend host          
-                rails                                                 
-                                                                      
-  ┌──────────────────────────────────────────────────┐               
-  │  React Admin Dashboard  ·  ops · disputes · stats│               
-  └──────────────────────────────────────────────────┘               
-                                                                      
-  COMMISSION: 12%  │  RIDERS: restaurant-managed  │  CITIES: 2       
-══════════════════════════════════════════════════════════════════════
+  [ Flutter App ]  [ React Panel ]  [ React Admin ]
+         │                │                │
+         └────────────────┴────────────────┘
+                          │
+              ┌─────────────────────┐
+              │  FastAPI  ·  Core   │
+              │  Supabase · Auth DB │
+              └──┬────┬────┬───────┘
+                 │    │    │
+              [FCM] [Pay] [Azure]
+              Push  Jazz  Host
+                    Cash
+                    Easy
+                    Paisa
+
+  COMMISSION: 12%  ·  DELIVERY: restaurant-owned
 ```
 
 ![Flutter](https://img.shields.io/badge/Flutter-0A0E1A?style=flat-square&logo=flutter&logoColor=00D4FF)
@@ -148,87 +207,77 @@ SYSTEM TOPOLOGY
 ![Supabase](https://img.shields.io/badge/Supabase-0A0E1A?style=flat-square&logo=supabase&logoColor=FFB800)
 ![Azure](https://img.shields.io/badge/Azure-0A0E1A?style=flat-square&logo=microsoftazure&logoColor=00D4FF)
 ![Firebase](https://img.shields.io/badge/Firebase-0A0E1A?style=flat-square&logo=firebase&logoColor=FFB800)
-![JazzCash](https://img.shields.io/badge/JazzCash-0A0E1A?style=flat-square&logoColor=FF4D6D)
-![Twilio](https://img.shields.io/badge/Twilio-0A0E1A?style=flat-square&logo=twilio&logoColor=FF4D6D)
 
-</details>
-
----
-
-<!-- ─────────────────────────── CHERÁG ─────────────────────────── -->
-<details open>
-<summary><b>🔆 &nbsp; CHERÁG — AI Study Platform &nbsp;·&nbsp; Live at cherag.pages.dev</b></summary>
+</td>
+</tr>
+</table>
 
 <br/>
 
-> **The problem:** Quality tutoring in Pakistan costs money students don't have. Cherág transforms course material into interactive study sessions — free, AI-powered, accessible anywhere.
+<!-- ─── CHERÁG ─── -->
+
+<table>
+<tr>
+<td>
+
+### `🔆 CHERÁG` &nbsp; · &nbsp; AI Study Platform &nbsp; · &nbsp; [cherag.pages.dev](https://cherag.pages.dev)
+
+<img src="https://img.shields.io/badge/STATUS-LIVE-00D4FF?style=flat-square&labelColor=050810"/> &nbsp;
+<img src="https://img.shields.io/badge/LICENSE-MIT-7C3AED?style=flat-square&labelColor=050810"/> &nbsp;
+<img src="https://img.shields.io/badge/AI-MULTI_MODEL_ORCHESTRATION-FF4D6D?style=flat-square&labelColor=050810"/>
+
+**The gap:** Quality tutoring in Pakistan costs money students don't have. Cherág converts course material into AI-powered study sessions — free, accessible, MIT licensed.
 
 ```
-SYSTEM TOPOLOGY
-══════════════════════════════════════════════════════════════════════
-                                                                      
-  ┌─────────────────────────────────────────────────┐                
-  │  React 19 + Vite  ·  Frontend SPA               │                
-  │  Knowledge Radar · Feynman Mode · Exam Sim      │                
-  │  Video Intelligence                              │                
-  └────────────────────────┬────────────────────────┘                
-                           │                                          
-                           ▼                                          
-  ┌─────────────────────────────────────────────────┐                
-  │  FastAPI  ·  AI Orchestration Layer              │                
-  │                                                  │                
-  │  Primary  ──▶  Gemini 2.0 Flash                  │                
-  │  Fallback ──▶  DeepSeek + OpenRouter models      │                
-  │                (smart failover, never goes down)  │                
-  └──────────┬─────────────────────┬────────────────┘                
-             │                     │                                  
-             ▼                     ▼                                  
-  [Supabase + PostgreSQL]    [Cloudflare Pages]   [Azure              
-   auth · storage · db       frontend CDN          Container Apps]    
-                                                   API host           
-                                                                      
-  License: MIT  ·  Fork it, run it, extend it                        
-══════════════════════════════════════════════════════════════════════
+  ┌──────────────────────────────────────────────────┐
+  │  React 19 + Vite · TailwindCSS · Cloudflare Pages│
+  │  Knowledge Radar · Feynman Mode · Exam Simulator  │
+  │  Video Intelligence (YouTube analysis)            │
+  └──────────────────────┬───────────────────────────┘
+                         │
+  ┌──────────────────────▼───────────────────────────┐
+  │  FastAPI · AI Orchestration                       │
+  │  Primary  ──▶  Gemini 2.0 Flash                  │
+  │  Fallback ──▶  DeepSeek + OpenRouter              │
+  │  (smart failover · never goes dark)               │
+  └──────┬──────────────────────────┬────────────────┘
+         │                          │
+  [Supabase + PostgreSQL]    [Azure Container Apps]
+   auth · storage · db        API host
 ```
 
 ![React](https://img.shields.io/badge/React_19-0A0E1A?style=flat-square&logo=react&logoColor=00D4FF)
-![Vite](https://img.shields.io/badge/Vite-0A0E1A?style=flat-square&logo=vite&logoColor=00D4FF)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0A0E1A?style=flat-square&logo=fastapi&logoColor=00D4FF)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages-0A0E1A?style=flat-square&logo=Cloudflare&logoColor=FFB800)
 ![Supabase](https://img.shields.io/badge/Supabase-0A0E1A?style=flat-square&logo=supabase&logoColor=FFB800)
 ![Gemini](https://img.shields.io/badge/Gemini_2.0-0A0E1A?style=flat-square&logo=google&logoColor=FF4D6D)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0A0E1A?style=flat-square&logoColor=7C3AED)
 
-</details>
-
----
-
-<!-- ─────────────────────────── PAJJAR ─────────────────────────── -->
-<details>
-<summary><b>📖 &nbsp; PAJJAR — Offline Language Dictionary &nbsp;·&nbsp; Balochistan</b></summary>
+</td>
+</tr>
+</table>
 
 <br/>
 
-> **The problem:** Languages in Balochistan have no digital preservation. No internet required — works fully offline, community-driven, 100% local storage.
+<!-- ─── PAJJAR ─── -->
+
+<details>
+<summary><b>📖 &nbsp; PAJJAR — Offline Language Dictionary &nbsp;·&nbsp; Balochistan &nbsp; (click to expand)</b></summary>
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-SHIPPED-7C3AED?style=flat-square&labelColor=050810"/> &nbsp;
+<img src="https://img.shields.io/badge/ARCH-OFFLINE_FIRST-FFB800?style=flat-square&labelColor=050810"/> &nbsp;
+<img src="https://img.shields.io/badge/MISSION-LANGUAGE_PRESERVATION-FF4D6D?style=flat-square&labelColor=050810"/>
+
+**The gap:** Languages in Balochistan have no digital home. Pajjar works fully offline — community-driven, 100% local storage, zero external dependencies.
 
 ```
-SYSTEM TOPOLOGY
-══════════════════════════════════════════════════════════════════════
-                                                                      
-  ┌─────────────────────────────────────┐                            
-  │  Flutter  ·  Cross-Platform App     │                            
-  │  Dictionary UI · Search · Browse    │                            
-  └──────────────────┬──────────────────┘                            
-                     │                                                
-                     ▼                                                
-  ┌─────────────────────────────────────┐                            
-  │  SQLite  ·  Local-First Database    │                            
-  │  Community entries · Offline sync   │                            
-  │  Zero external dependencies         │                            
-  └─────────────────────────────────────┘                            
-                                                                      
-  ARCH: Offline-first  ·  100% local  ·  Community entries           
-  GOAL: Long-term preservation of endangered Balochi dialects         
-══════════════════════════════════════════════════════════════════════
+  [ Flutter Cross-Platform App ]
+  Dictionary UI · Search · Browse
+           │
+  [ SQLite · Local-First DB ]
+  Community entries · Offline-first · Endangered dialects
 ```
 
 ![Flutter](https://img.shields.io/badge/Flutter-0A0E1A?style=flat-square&logo=flutter&logoColor=00D4FF)
@@ -237,99 +286,207 @@ SYSTEM TOPOLOGY
 
 </details>
 
----
+<br/>
 
-## `> TECH STACK`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4D6D,50:7C3AED,100:00D4FF&height=4&section=header"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   TECH STACK SECTION                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `⚙️ TECH STACK — CURRENT ARSENAL`
 
 <div align="center">
 
-**— MOBILE —**
+<table>
+<tr>
+<th align="center">📱 Mobile</th>
+<th align="center">🖥️ Frontend</th>
+<th align="center">⚙️ Backend</th>
+</tr>
+<tr>
+<td align="center">
 
 ![Flutter](https://img.shields.io/badge/Flutter-0A0E1A?style=for-the-badge&logo=flutter&logoColor=00D4FF)
 ![Dart](https://img.shields.io/badge/Dart-0A0E1A?style=for-the-badge&logo=dart&logoColor=00D4FF)
 
-**— FRONTEND —**
+</td>
+<td align="center">
 
 ![React](https://img.shields.io/badge/React-0A0E1A?style=for-the-badge&logo=react&logoColor=00D4FF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A0E1A?style=for-the-badge&logo=typescript&logoColor=00D4FF)
-![Next.js](https://img.shields.io/badge/Next.js-0A0E1A?style=for-the-badge&logo=next.js&logoColor=00D4FF)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0A0E1A?style=for-the-badge&logo=tailwind-css&logoColor=00D4FF)
-![Vite](https://img.shields.io/badge/Vite-0A0E1A?style=for-the-badge&logo=vite&logoColor=00D4FF)
+![Next.js](https://img.shields.io/badge/Next.js-0A0E1A?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0A0E1A?style=for-the-badge&logo=tailwind-css&logoColor=00D4FF)
+![Vite](https://img.shields.io/badge/Vite-0A0E1A?style=for-the-badge&logo=vite&logoColor=7C3AED)
 
-**— BACKEND + DATABASE —**
+</td>
+<td align="center">
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0A0E1A?style=for-the-badge&logo=fastapi&logoColor=00D4FF)
-![Node.js](https://img.shields.io/badge/Node.js-0A0E1A?style=for-the-badge&logo=nodedotjs&logoColor=00D4FF)
+![Node.js](https://img.shields.io/badge/Node.js-0A0E1A?style=for-the-badge&logo=nodedotjs&logoColor=FFB800)
 ![Python](https://img.shields.io/badge/Python-0A0E1A?style=for-the-badge&logo=python&logoColor=FFB800)
+![Express](https://img.shields.io/badge/Express-0A0E1A?style=for-the-badge&logo=express&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<th align="center">🗄️ Databases</th>
+<th align="center">☁️ Cloud & Infra</th>
+<th align="center">🤖 AI & Integrations</th>
+</tr>
+<tr>
+<td align="center">
+
 ![Supabase](https://img.shields.io/badge/Supabase-0A0E1A?style=for-the-badge&logo=supabase&logoColor=FFB800)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0E1A?style=for-the-badge&logo=postgresql&logoColor=FFB800)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0A0E1A?style=for-the-badge&logo=mongodb&logoColor=FFB800)
 ![Firebase](https://img.shields.io/badge/Firebase-0A0E1A?style=for-the-badge&logo=firebase&logoColor=FFB800)
+![SQLite](https://img.shields.io/badge/SQLite-0A0E1A?style=for-the-badge&logo=sqlite&logoColor=00D4FF)
 
-**— CLOUD + INFRA —**
+</td>
+<td align="center">
 
-![Docker](https://img.shields.io/badge/Docker-0A0E1A?style=for-the-badge&logo=docker&logoColor=FFB800)
+![Docker](https://img.shields.io/badge/Docker-0A0E1A?style=for-the-badge&logo=docker&logoColor=00D4FF)
 ![Azure](https://img.shields.io/badge/Azure-0A0E1A?style=for-the-badge&logo=microsoftazure&logoColor=FFB800)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0A0E1A?style=for-the-badge&logo=Cloudflare&logoColor=FFB800)
 ![Linux](https://img.shields.io/badge/Linux-0A0E1A?style=for-the-badge&logo=linux&logoColor=FF4D6D)
 ![Git](https://img.shields.io/badge/Git-0A0E1A?style=for-the-badge&logo=git&logoColor=FF4D6D)
 
-**— AI + INTEGRATIONS —**
+</td>
+<td align="center">
 
-![Gemini](https://img.shields.io/badge/Google_Gemini-0A0E1A?style=for-the-badge&logo=google&logoColor=FF4D6D)
-![Stripe](https://img.shields.io/badge/Stripe-0A0E1A?style=for-the-badge&logo=stripe&logoColor=FF4D6D)
-![Twilio](https://img.shields.io/badge/Twilio-0A0E1A?style=for-the-badge&logo=twilio&logoColor=FF4D6D)
+![Gemini](https://img.shields.io/badge/Gemini_2.0-0A0E1A?style=for-the-badge&logo=google&logoColor=FF4D6D)
+![Stripe](https://img.shields.io/badge/Stripe-0A0E1A?style=for-the-badge&logo=stripe&logoColor=7C3AED)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-0A0E1A?style=for-the-badge&logo=cloudinary&logoColor=FF4D6D)
+![Twilio](https://img.shields.io/badge/Twilio-0A0E1A?style=for-the-badge&logo=twilio&logoColor=FF4D6D)
+![Resend](https://img.shields.io/badge/Resend-0A0E1A?style=for-the-badge&logo=mail&logoColor=00D4FF)
+
+</td>
+</tr>
+</table>
 
 </div>
-
----
-
-## `> GITHUB STATS`
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats-azure-nine-36.vercel.app?user=Qamber02&theme=tokyonight&hide_border=true&border_radius=10&ring=00D4FF&fire=FFB800&currStreakLabel=00D4FF&sideLabels=FFB800&dates=E6EDF3&currStreakNum=00D4FF&sideNums=E6EDF3&background=0A0E1A" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Qamber02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E1A&title_color=00D4FF&icon_color=FFB800&text_color=E6EDF3&border_radius=10" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Qamber02&theme=tokyo-night&hide_border=true&bg_color=0A0E1A&color=00D4FF&line=FFB800&point=FF4D6D&area=true&area_color=0D2137" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qamber02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E1A&title_color=00D4FF&text_color=E6EDF3&border_radius=10&langs_count=8"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB800,50:FF4D6D,100:7C3AED&height=4&section=header"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB STATS                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `📊 GITHUB STATS`
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats-azure-nine-36.vercel.app?user=Qamber02&theme=tokyonight&hide_border=true&border_radius=10&ring=00D4FF&fire=FFB800&currStreakLabel=00D4FF&sideLabels=FFB800&dates=E6EDF3&currStreakNum=00D4FF&sideNums=E6EDF3&background=050810" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Qamber02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050810&title_color=00D4FF&icon_color=FFB800&text_color=E6EDF3&border_radius=10" width="49%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Qamber02&theme=tokyo-night&hide_border=true&bg_color=050810&color=00D4FF&line=7C3AED&point=FFB800&area=true&area_color=0D2137" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qamber02&layout=compact&theme=tokyonight&hide_border=true&bg_color=050810&title_color=00D4FF&text_color=E6EDF3&border_radius=10&langs_count=8"/>
 
 </div>
 
----
+<br/>
 
-## `> CONNECT`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,33:7C3AED,66:FF4D6D,100:FFB800&height=4&section=header"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              ★ WOW FEATURE: ANIMATED SKILL BARS ★             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `🧠 SKILL LEVELS — BATTLE TESTED`
+
+<div align="center">
+
+<img src="./skill_bars.svg" width="100%" alt="Skill Levels"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 CURRENT INTERNSHIP HIGHLIGHT                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `💼 CURRENTLY SHIPPING — UNHIRE / EVU`
 
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   Open to:   Internships  ·  Collaborations  ·  Contracting                 │
-│   Focus:     South Asia  ·  Underserved markets  ·  EdTech                  │
-│   Timezone:  PKT (UTC+5)                                                     │
-│                                                                              │
-│   →  linkedin.com/in/qamber-muhammed-hanif                                  │
-│   →  qambers-cyber-grid.vercel.app                                          │
-│   →  cherag.pages.dev                                                        │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   UNHIRE  ·  NYC-Based Freelance Marketplace  ·  Backend Engineering      ║
+║                                                                           ║
+╠═══════════════════════════════════════════════════════════════════════════╣
+║                                                                           ║
+║   ✦  Stripe Connect onboarding — card_payments + transfers capabilities  ║
+║   ✦  Dispute management system — chat rooms + Cloudinary file uploads    ║
+║   ✦  Security audit — XSS, CSRF, rate limiting, webhook validation       ║
+║   ✦  Email infrastructure redesign with Resend + custom templates        ║
+║   ✦  SHA-256 hashed filenames, getOrCreateStripeCustomer helper          ║
+║   ✦  MongoDB Atlas DNS fix, full Git rebase/reset on production repo     ║
+║                                                                           ║
+║   STACK:  Node.js · Express · MongoDB · Stripe · Cloudinary · Resend     ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-00D4FF?style=for-the-badge&logo=linkedin&logoColor=0A0E1A)](https://linkedin.com/in/qamber-muhammed-hanif/)
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:FF4D6D,100:FFB800&height=4&section=header"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      CONNECT BLOCK                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `📡 CONNECT`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=FFB800&center=true&vCenter=true&width=600&lines=→+Open+to+Internships+%C2%B7+Collaborations+%C2%B7+Contracting;→+Focus%3A+South+Asia+%C2%B7+Underserved+markets+%C2%B7+EdTech;→+Timezone%3A+PKT+(UTC%2B5)+%C2%B7+Always+building" alt="Typing SVG" />
+
+<br/><br/>
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│   linkedin.com/in/qamber-muhammed-hanif   ──  Professional network       │
+│   qambers-cyber-grid.vercel.app           ──  Interactive portfolio      │
+│   cherag.pages.dev                        ──  Flagship live product      │
+│                                                                          │
+│   25.1264° N, 62.3225° E  ·  Gwadar, Balochistan  ·  PKT (UTC+5)        │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A0E1A?style=for-the-badge&logo=linkedin&logoColor=00D4FF&labelColor=7C3AED)](https://linkedin.com/in/qamber-muhammed-hanif/)
 &nbsp;
-[![Portfolio →](https://img.shields.io/badge/Portfolio_→-FFB800?style=for-the-badge&logo=vercel&logoColor=0A0E1A)](https://qambers-cyber-grid.vercel.app)
+[![Portfolio](https://img.shields.io/badge/3D_Portfolio_%E2%86%92-0A0E1A?style=for-the-badge&logo=vercel&logoColor=FFB800&labelColor=050810)](https://qambers-cyber-grid.vercel.app)
+&nbsp;
+[![Cherág](https://img.shields.io/badge/Cherág_Live_%F0%9F%94%86-0A0E1A?style=for-the-badge&logo=cloudflare&logoColor=FF4D6D&labelColor=050810)](https://cherag.pages.dev)
 
 </div>
 
----
+<br/>
 
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0E1A,25:061424,50:0D1F35,75:061424,100:0A0E1A&height=140&section=footer&text=Built%20from%20Gwadar%20·%20Shipped%20to%20the%20world&fontSize=20&fontColor=00D4FF&animation=twinkling&fontAlignY=55&desc=25.1264°%20N%2C%2062.3225°%20E%20·%20~650km%20from%20where%20the%20apps%20stop&descSize=12&descAlignY=78&descColor=FFB800"/>
-</div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED FOOTER                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050810,20:0D1040,40:1A0050,60:0D1040,80:061424,100:050810&height=160&section=footer&text=Built+from+Gwadar+·+Shipped+to+the+world&fontSize=22&fontColor=00D4FF&animation=twinkling&fontAlignY=45&desc=25.1264°+N,+62.3225°+E+·+~650km+from+where+the+apps+stop&descSize=13&descAlignY=72&descColor=FFB800"/>
