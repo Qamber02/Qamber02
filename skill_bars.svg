@@ -1,0 +1,110 @@
+<svg width="800" height="320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D0621;stop-opacity:1" />
+      <stop offset="35%" style="stop-color:#0A1628;stop-opacity:1" />
+      <stop offset="70%" style="stop-color:#1A0638;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#050810;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="bar1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D4FF" />
+      <stop offset="100%" style="stop-color:#7C3AED" />
+    </linearGradient>
+    <linearGradient id="bar2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7C3AED" />
+      <stop offset="100%" style="stop-color:#FF4D6D" />
+    </linearGradient>
+    <linearGradient id="bar3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D4FF" />
+      <stop offset="100%" style="stop-color:#FFB800" />
+    </linearGradient>
+    <linearGradient id="bar4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FFB800" />
+      <stop offset="100%" style="stop-color:#FF4D6D" />
+    </linearGradient>
+    <linearGradient id="bar5" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF4D6D" />
+      <stop offset="100%" style="stop-color:#7C3AED" />
+    </linearGradient>
+    <linearGradient id="bar6" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D4FF" />
+      <stop offset="100%" style="stop-color:#00FF88" />
+    </linearGradient>
+    <linearGradient id="bar7" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7C3AED" />
+      <stop offset="100%" style="stop-color:#FFB800" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="textglow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="320" rx="12" ry="12" fill="url(#bgGrad)"/>
+  
+  <!-- Border glow -->
+  <rect width="798" height="318" x="1" y="1" rx="11" ry="11" fill="none" stroke="#7C3AED" stroke-width="1" opacity="0.6"/>
+  <rect width="794" height="314" x="3" y="3" rx="10" ry="10" fill="none" stroke="#00D4FF" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Title -->
+  <text x="400" y="36" font-family="'Courier New', monospace" font-size="15" font-weight="bold" fill="#00D4FF" text-anchor="middle" filter="url(#textglow)">🧠  SKILL LEVELS — BATTLE TESTED</text>
+  <line x1="60" y1="48" x2="740" y2="48" stroke="#7C3AED" stroke-width="0.5" opacity="0.5"/>
+
+  <!-- Row 1: FLUTTER 90% -->
+  <text x="130" y="80" font-family="'Courier New', monospace" font-size="12" fill="#E6EDF3" text-anchor="end">FLUTTER</text>
+  <rect x="140" y="68" width="440" height="14" rx="3" fill="#0D1530" opacity="0.8"/>
+  <rect x="140" y="68" width="396" height="14" rx="3" fill="url(#bar1)" filter="url(#glow)"/>
+  <text x="592" y="80" font-family="'Courier New', monospace" font-size="11" fill="#FFB800" font-weight="bold">90%</text>
+  <text x="630" y="80" font-family="'Courier New', monospace" font-size="10" fill="#8892A4">daily driver · prod apps</text>
+
+  <!-- Row 2: FASTAPI 88% -->
+  <text x="130" y="110" font-family="'Courier New', monospace" font-size="12" fill="#E6EDF3" text-anchor="end">FASTAPI</text>
+  <rect x="140" y="98" width="440" height="14" rx="3" fill="#0D1530" opacity="0.8"/>
+  <rect x="140" y="98" width="387" height="14" rx="3" fill="url(#bar2)" filter="url(#glow)"/>
+  <text x="592" y="110" font-family="'Courier New', monospace" font-size="11" fill="#FFB800" font-weight="bold">88%</text>
+  <text x="630" y="110" font-family="'Courier New', monospace" font-size="10" fill="#8892A4">AI services · REST APIs</text>
+
+  <!-- Row 3: REACT 82% -->
+  <text x="130" y="140" font-family="'Courier New', monospace" font-size="12" fill="#E6EDF3" text-anchor="end">REACT</text>
+  <rect x="140" y="128" width="440" height="14" rx="3" fill="#0D1530" opacity="0.8"/>
+  <rect x="140" y="128" width="361" height="14" rx="3" fill="url(#bar3)" filter="url(#glow)"/>
+  <text x="592" y="140" font-family="'Courier New', monospace" font-size="11" fill="#FFB800" font-weight="bold">82%</text>
+  <text x="630" y="140" font-family="'Courier New', monospace" font-size="10" fill="#8892A4">SPAs · dashboards · portals</text>
+
+  <!-- Row 4: NODE.JS 75% -->
+  <text x="130" y="170" font-family="'Courier New', monospace" font-size="12" fill="#E6EDF3" text-anchor="end">NODE.JS</text>
+  <rect x="140" y="158" width="440" height="14" rx="3" fill="#0D1530" opacity="0.8"/>
+  <rect x="140" y="158" width="330" height="14" rx="3" fill="url(#bar4)" filter="url(#glow)"/>
+  <text x="592" y="170" font-family="'Courier New', monospace" font-size="11" fill="#FFB800" font-weight="bold">75%</text>
+  <text x="630" y="170" font-family="'Courier New', monospace" font-size="10" fill="#8892A4">backend APIs · Stripe infra</text>
+
+  <!-- Row 5: TYPESCRIPT 72% -->
+  <text x="130" y="200" font-family="'Courier New', monospace" font-size="12" fill="#E6EDF3" text-anchor="end">TYPESCRIPT</text>
+  <rect x="140" y="188" width="440" height="14" rx="3" fill="#0D1530" opacity="0.8"/>
+  <rect x="140" y="188" width="317" height="14" rx="3" fill="url(#bar5)" filter="url(#glow)"/>
+  <text x="592" y="200" font-family="'Courier New', monospace" font-size="11" fill="#FFB800" font-weight="bold">72%</text>
+  <text x="630" y="200" font-family="'Courier New', monospace" font-size="10" fill="#8892A4">typed everything</text>
+
+  <!-- Row 6: DEVOPS 65% -->
+  <text x="130" y="230" font-family="'Courier New', monospace" font-size="12" fill="#E6EDF3" text-anchor="end">DEVOPS</text>
+  <rect x="140" y="218" width="440" height="14" rx="3" fill="#0D1530" opacity="0.8"/>
+  <rect x="140" y="218" width="286" height="14" rx="3" fill="url(#bar6)" filter="url(#glow)"/>
+  <text x="592" y="230" font-family="'Courier New', monospace" font-size="11" fill="#FFB800" font-weight="bold">65%</text>
+  <text x="630" y="230" font-family="'Courier New', monospace" font-size="10" fill="#8892A4">Docker · Azure · Cloudflare</text>
+
+  <!-- Row 7: PYTHON 62% -->
+  <text x="130" y="260" font-family="'Courier New', monospace" font-size="12" fill="#E6EDF3" text-anchor="end">PYTHON</text>
+  <rect x="140" y="248" width="440" height="14" rx="3" fill="#0D1530" opacity="0.8"/>
+  <rect x="140" y="248" width="273" height="14" rx="3" fill="url(#bar7)" filter="url(#glow)"/>
+  <text x="592" y="260" font-family="'Courier New', monospace" font-size="11" fill="#FFB800" font-weight="bold">62%</text>
+  <text x="630" y="260" font-family="'Courier New', monospace" font-size="10" fill="#8892A4">FastAPI · ML experiments</text>
+
+  <!-- Bottom border line -->
+  <line x1="60" y1="278" x2="740" y2="278" stroke="#7C3AED" stroke-width="0.5" opacity="0.5"/>
+  <text x="400" y="300" font-family="'Courier New', monospace" font-size="10" fill="#7C3AED" text-anchor="middle" opacity="0.7">[ ALL SKILLS BATTLE-TESTED IN PRODUCTION ]</text>
+</svg>
