@@ -528,7 +528,7 @@ core_arsenal:
 <br/><br/>
 
 <img src="https://github-readme-streak-stats-azure-nine-36.vercel.app?user=Qamber02&theme=tokyonight&hide_border=true&border_radius=10&ring=00D4FF&fire=FFB800&currStreakLabel=00D4FF&sideLabels=FFB800&dates=E6EDF3&currStreakNum=00D4FF&sideNums=E6EDF3&background=050810" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Qamber02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050810&title_color=00D4FF&icon_color=FFB800&text_color=E6EDF3&border_radius=10" width="49%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Qamber02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050810&title_color=00D4FF&icon_color=FFB800&text_color=E6EDF3&border_radius=10" width="49%"/>
 
 <br/><br/>
 
@@ -536,7 +536,7 @@ core_arsenal:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qamber02&layout=compact&theme=tokyonight&hide_border=true&bg_color=050810&title_color=00D4FF&text_color=E6EDF3&border_radius=10&langs_count=8"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Qamber02&layout=compact&theme=tokyonight&hide_border=true&bg_color=050810&title_color=00D4FF&text_color=E6EDF3&border_radius=10&langs_count=8"/>
 
 </div>
 
